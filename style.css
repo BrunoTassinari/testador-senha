@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font: normal 17pt arial;
+}
+
+header{
+    margin: 1em;
+}
+
+div#quadro2, #coleta{
+    margin: 1em;
+}
